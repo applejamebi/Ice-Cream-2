@@ -11,8 +11,8 @@ body {
   color: #444;
 }
 
-h1 {
-  font-family: "Merriweather", serif;
+h2 {
+  font-family: 'Berkshire Swash', cursive;
   font-size: 32px;
 }
-
+table, th, td {border: 1px solid black;}
