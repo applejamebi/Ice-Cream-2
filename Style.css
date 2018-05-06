@@ -3,7 +3,8 @@
 @import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
 
 body {
-  background-color: white;
+  text-align: center;
+  background-color: ;
   font-family: "Open Sans", sans-serif;
   padding: 5px 25px;
   font-size: 18px;
@@ -12,7 +13,10 @@ body {
 }
 
 h2 {
-  font-family: 'Berkshire Swash', cursive;
-  font-size: 32px;
-}
-table, th, td {border: 1px solid black;}
+  text-align: center;
+  font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+  font-size: 24px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 500;
+  line-height: 26.4px;}
