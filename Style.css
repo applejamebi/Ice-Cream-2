@@ -4,19 +4,32 @@
 
 body {
   text-align: center;
-  background-color: ;
-  font-family: "Open Sans", sans-serif;
+  background-color: lavenderblush;
+  font-family: 'Lora', serif;
   padding: 5px 25px;
   font-size: 18px;
   margin: 0;
-  color: #444;
+  color: chocolate;
 }
 
-h2 {
+h1 {
   text-align: center;
   font-family: Copperplate, "Copperplate Gothic Light", fantasy;
   font-size: 40px;
   font-style: normal;
   font-variant: normal;
   font-weight: 500;
-  line-height: 26.4px;}
+  color: mediumblue;
+  line-height: 26.4px;
+}
+
+h2 {
+  text-align: center;
+  font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+  font-size: 30px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 500;
+  color: mediumblue;
+  line-height: 26.4px;
+}
